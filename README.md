@@ -1,4 +1,4 @@
-<h2 align="left">yohoo👋!, im lelegoyeng dev</h2>
+<h2 align="left">yohoo👋!</h2>
 
 <div>I'M Software Engineer, I really enjoy building open source software, creating and contributing to communities, teaching others through blog/video content, and helping others via chat/forums.</div>
 <p align = "center">
