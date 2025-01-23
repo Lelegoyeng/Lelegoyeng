@@ -1,8 +1,7 @@
 <h2 align="left">yohoo👋!</h2>
-![alt tag1](Lelegoyeng.png)
 
 <div style="float: right;">
-    <img src="https://github.com/Lelegoyeng/technical-dashboard-fx/blob/main/src/assets/gambar1.png" alt="Gambar 1" width="912">
+    <img src="https://github.com/LelegoyengLelegoyeng/blob/main/Lelegoyeng.png" alt="Gambar 1" width="912">
 </div>
 
 
