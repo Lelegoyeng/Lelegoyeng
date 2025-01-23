@@ -1,7 +1,7 @@
 <h2 align="left">yohoo👋!</h2>
 
 <div style="float: right;">
-    <img src="https://github.com/Lelegoyeng/Lelegoyeng/blob/main/Lelegoyeng.png" alt="Gambar 1" width="912">
+    <img src="https://github.com/Lelegoyeng/Lelegoyeng/blob/main/Lelegoyeng.png" alt="Gambar 1">
 </div>
 
 
