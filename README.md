@@ -4,7 +4,7 @@
 
 <h2 align="left">yohoo👋!</h2>
 
-<div>I'M Software Engineer, I really enjoy building open source software, creating and contributing to communities,and helping others via chat/forums.</div>
+<div>I am a Software Developer who truly enjoys building solutions that benefit many people, creating, and contributing to the technology community.</div>
 <p align = "center">
 	<img src = "https://github.com/Lelegoyeng/Lelegoyeng/blob/main/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
