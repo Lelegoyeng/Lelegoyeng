@@ -2,7 +2,7 @@
     <img src="https://github.com/Lelegoyeng/Lelegoyeng/blob/main/Lelegoyeng.png" alt="Gambar 1">
 </div>
 
-<h2 align="left">yohoo👋!</h2>
+<h2 align="left">Kevin Rubama Is My Name yohoo👋!</h2>
 
 <div>I am a Software Developer who truly enjoys building solutions that benefit many people, creating, and contributing to the technology community.</div>
 <p align = "center">
