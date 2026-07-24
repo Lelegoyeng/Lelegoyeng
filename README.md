@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lelegoyeng/Lelegoyeng/main/Lelegoyeng.png" alt="Lelegoyeng Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Kevin Rubama 👋</h1>
 <h3 align="center">Software Developer | Web & App Specialist | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vcenter=true&width=500&lines=Turning+coffee+into+code+%40+;Passionate+about+Web+%26+App+Development;Exploring+AI+Agents+%26+Building+Side+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vcenter=true&width=500&lines=Turning+coffee+into+code;Passionate+about+Web+%26+App+Development;Exploring+AI+Agents+%26+Building+Side+Projects" alt="Typing SVG" />
 </p>
-
 
 ---
 
