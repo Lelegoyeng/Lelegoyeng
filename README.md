@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96FF&center=true&vcenter=true&width=500&lines=Turning+coffee+into+code+%40+;Passionate+about+Web+%26+App+Development;Exploring+AI+Agents+%26+Building+Side+Projects" alt="Typing SVG" />
-</p>* 🌐 **Mission**: Building software solutions that create real value and benefit many people.
+</p>
 
 
 ---
