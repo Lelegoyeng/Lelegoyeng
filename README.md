@@ -1,13 +1,7 @@
-<!-- HEADER BANNER DENGAN GAMBAR RESOLUSI TINGGI -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lelegoyeng/Lelegoyeng/main/Lelegoyeng.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lelegoyeng/Lelegoyeng/main/Lelegoyeng.png">
-    <img alt="Lelegoyeng Banner" src="https://raw.githubusercontent.com/Lelegoyeng/Lelegoyeng/main/Lelegoyeng.png" width="100%" style="max-width: 1920px;">
-  </picture>
-</p>
+<div style="float: right;">
+    <img src="https://github.com/Lelegoyeng/Lelegoyeng/blob/main/Lelegoyeng.png" alt="Gambar 1">
+</div>
 
-<!-- SALAM DAN SLOGAN -->
 <h1 align="center">Hi there, I'm Kevin Rubama 👋</h1>
 <h3 align="center">Software Developer | Web & App Specialist | AI Enthusiast</h3>
 
