@@ -13,7 +13,6 @@
 
 <!-- TENTANG SAYA -->
 ### 🚀 About Me
-* 💼 **Software Developer**: Turning ideas into functional code and user-friendly products.
 * ☕ **Philosophy**: *"Turning coffee into code."*
 * 🛠️ **Passionate about**: Web & App development, AI agents, and open-source side projects.
 * 🌐 **Mission**: Building software solutions that create real value and benefit many people.
