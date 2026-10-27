@@ -2,7 +2,7 @@
     <img src="https://github.com/Lelegoyeng/Lelegoyeng/blob/main/Lelegoyeng.png" alt="Gambar 1">
 </div>
 
-<h1 align="center">Hi there, I'm Kevin Rubama 👋</h1>
+<h1 align="center">Hi there, I'm Kevin Russian 👋</h1>
 <h3 align="center">Software Developer | Web & App Specialist | AI Enthusiast</h3>
 
 <p align="center">
